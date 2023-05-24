@@ -3,6 +3,7 @@
 pragma solidity >=0.7.0 <0.9.0;
 
 import "./ICrowdsale.sol";
+import "./USDC.sol";
 
 contract Crowdsale is ICrowdsale {
 

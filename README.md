@@ -14,7 +14,7 @@ Lately, a new crowdfunding scheme called crowdsale has emerged, mainly geared to
 3) Run the [tests](#tests) and see the results
 4) Check the [coverage](#coverage) 
 
-## Iteration with the Smart Contract
+## Interation with the Smart Contract
 
 To see the currently available tasks run `yarn hardhat` or `npx hardhat`
 
