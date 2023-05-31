@@ -47,3 +47,7 @@ yarn hardhat test || npx hardhat test
 ```shell
 yarn hardhat coverage || npx hardhat coverage
 ```
+
+# Missing things to add to the implementation
+
+* USDC token used should be upgradable. 
